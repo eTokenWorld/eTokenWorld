@@ -193,11 +193,6 @@ Please read:
 
 ## Documents
 
-- [Overview](docs/overview.md)
-- [Public Positioning](docs/public-positioning.md)
-- [Ecosystem Vision](docs/ecosystem-vision.md)
-- [Modules](docs/modules.md)
-- [Public Roadmap](docs/roadmap-public.md)
 - [Roadmap Summary](ROADMAP.md)
 - [FAQ](FAQ.md)
 - [Contact](CONTACT.md)
