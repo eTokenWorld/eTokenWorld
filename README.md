@@ -7,6 +7,23 @@
 
 ---
 
+## Project Information
+
+**Iris Project**  
+**The New World of Human Intelligence Project**
+
+**Project:** eToken.World Project  
+**Project Owner:** eToken Company Pte Ltd  
+**Location:** Singapore  
+**Project Launch:** 11 January 2026  
+**Official Announcement:** 24 March 2026
+
+eTokenWorld is being developed as part of a broader long-range project direction powered by QoreMesh OS.
+
+The public direction includes human intelligence, digital participation, governed services, trusted coordination, ecosystem growth, intelligent systems, connected infrastructure, and future machine-linked service environments.
+
+---
+
 ## Introduction
 
 eTokenWorld is the human-facing platform powered by QoreMesh OS. It is being developed to bring together programmable value, digital identity, governed services, and trusted digital coordination in a unified platform for real-world use.
@@ -64,6 +81,7 @@ A central concept in the eTokenWorld direction is the emergence of a **Quantum W
 In this vision, meaningful digital objects can carry authorship, rights, continuity, participation value, service relevance, and trusted relationships in structured form.
 
 This supports a more human-centered digital future in which:
+
 - human intelligence can be expressed through structured digital forms
 - authorship and stewardship remain meaningful
 - participation can become more portable and trusted
@@ -99,6 +117,7 @@ The participant-facing access layer is described as **User Gateway Access**.
 This term reflects a broader role than a conventional digital wallet. User Gateway Access represents the participant’s entry point into the eTokenWorld environment for identity-linked access, digital participation, service interaction, trusted records, and broader ecosystem engagement.
 
 This direction is intended to support a more complete gateway experience for:
+
 - individuals
 - operators
 - institutions
@@ -141,6 +160,7 @@ Identity, value, service access, records, participation, proofs, and connected s
 eTokenWorld is intended to support a more unified direction where these capabilities can be approached through one public-facing gateway layer built on trusted underlying infrastructure.
 
 This matters for:
+
 - developer ecosystems
 - service ecosystems
 - operator growth
@@ -167,6 +187,7 @@ This means attracting and enabling developers who can build:
 The goal is not just to present a vision, but to create an ecosystem of builders who can help expand the platform in practical and governed ways.
 
 Future public-safe developer materials are expected to include:
+
 - architecture overviews
 - terminology guides
 - high-level integration concepts
@@ -182,6 +203,7 @@ Another major strategic direction is the formation of a **Guardian Force**.
 At a public-safe level, this represents the growth of a trusted human support, review, stewardship, and protection layer around the ecosystem.
 
 This can include future roles connected to:
+
 - trust and safety
 - support and stewardship
 - review and guidance
@@ -198,6 +220,7 @@ This direction reflects the importance of human responsibility and trusted parti
 The public direction of eTokenWorld includes an **AI engine module**.
 
 This module is intended to support:
+
 - guidance
 - discovery
 - contextual assistance
@@ -216,6 +239,7 @@ The AI direction is intended to strengthen participation and usability while pre
 The public direction of eTokenWorld includes an **IoT module**.
 
 This module is intended to support:
+
 - connected systems participation
 - infrastructure-linked services
 - smart service points
@@ -232,6 +256,7 @@ This makes eTokenWorld relevant not only to application developers, but also to 
 The public direction of eTokenWorld includes a **drone and flying module**.
 
 This is intended to support future-facing service environments involving:
+
 - aerial service systems
 - logistics support
 - flying infrastructure interaction
@@ -270,6 +295,7 @@ For strategic partners and investors, eTokenWorld represents a public-facing gat
 - long-range public and institutional digital environments
 
 This can be relevant to investors interested in:
+
 - AI infrastructure
 - IoT and connected systems
 - digital gateway platforms
@@ -279,11 +305,14 @@ This can be relevant to investors interested in:
 
 ---
 
-## Public-Safe Scope
+## Intellectual Property Notice
+
+Intellectual property protection and long-term technology stewardship form part of the project’s development strategy.
 
 This repository contains public-safe materials only.
 
 It does not disclose:
+
 - confidential implementation details
 - proprietary execution logic
 - internal scripts
@@ -294,7 +323,10 @@ It does not disclose:
 - private deployment architecture
 - confidential engineering artifacts
 
+No patent license, transfer of proprietary know-how, or disclosure of protected implementation is granted by publication of materials in this repository.
+
 Please read:
+
 - [IP Notice](IP_NOTICE.md)
 - [Publishing Rules](PUBLISHING.md)
 
@@ -345,6 +377,16 @@ eTokenWorld welcomes interest from:
 - long-range investors
 
 This repository is the public starting point for understanding the vision and participating in the next stage of growth.
+
+---
+
+## Company
+
+**Organization:** eToken Company Pte Ltd  
+**Project:** eToken.World Project  
+**Base:** Singapore
+
+eTokenWorld is being developed as part of a broader long-range digital infrastructure direction powered by QoreMesh OS.
 
 ---
 
