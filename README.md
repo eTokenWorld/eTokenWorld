@@ -9,16 +9,16 @@
 
 ## Project Information
 
-**Iris Project**  
-**The New World of Human Intelligence Project**
+**eTokenWorld**
+Powered by QoreMesh OS
 
-**Project:** eToken.World Project  
-**Project Owner:** eToken Company Pte Ltd  
-**Location:** Singapore  
-**Project Launch:** 11 January 2026  
+**Project Owner:** eToken Company Pte Ltd
+**Location:** Singapore
+**Project Launch:** 11 January 2026
 **Official Announcement:** 24 March 2026
 
-eTokenWorld is being developed as part of a broader long-range project direction powered by QoreMesh OS.
+Iris Project is the broader project initiative behind eTokenWorld.
+The New World of Human Intelligence is the long-range vision direction of the project.
 
 The public direction includes human intelligence, digital participation, governed services, trusted coordination, ecosystem growth, intelligent systems, connected infrastructure, and future machine-linked service environments.
 
