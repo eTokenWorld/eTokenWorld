@@ -3,7 +3,7 @@
 **Original Publication: 24 March 2026**  
 **Public-Safe Revision: 28 March 2026**
 
-**eTokenWorld, powered by QoreMesh OS, is the New World Gateway for human intelligence, digital participation, governed services, and trusted coordination across people, ecosystems, institutions, AI systems, and connected infrastructure.**
+**eTokenWorld, powered by QoreMesh OS, is the New World Gateway for trusted digital participation, governed services, intelligent ecosystem growth, and connected real-world coordination.**
 
 ---
 
@@ -20,68 +20,135 @@ eTokenWorld is part of the broader **Iris Project**, guided by the long-range vi
 
 ---
 
-## What eTokenWorld Is
+## Overview
 
 eTokenWorld is the human-facing gateway layer built on top of QoreMesh OS.
 
-It is being developed to bring together programmable value, digital identity, governed services, and trusted digital coordination in a unified platform for real-world use.
+It is being developed to bring together digital identity, programmable participation, governed services, trusted records, ecosystem coordination, and future intelligent and connected-system interaction within one coherent public-facing environment.
 
-At a broader level, eTokenWorld is intended to serve as a public gateway into a new kind of digital environment where people, organizations, ecosystems, institutions, intelligent systems, and connected infrastructure can participate through one coherent platform rather than through fragmented digital silos.
-
----
-
-## Why It Matters
-
-Many digital systems remain separated across identity, value, service access, records, participation, and connected-system interaction.
-
-eTokenWorld is intended to support a more unified direction where these capabilities can be approached through one public-facing gateway built on trusted underlying infrastructure.
-
-This matters for:
-
-- developers building new services and applications
-- operators growing real-world adoption
-- AI and IoT builders creating new modules and connected systems
-- institutions exploring trusted digital coordination
-- long-range ecosystem and infrastructure growth
+At a public level, eTokenWorld is intended to provide a more unified alternative to fragmented digital systems by creating a gateway through which people, organizations, operators, institutions, and connected infrastructures can interact through trusted digital participation.
 
 ---
 
-## Core Public Direction
+## QoreMesh OS
+
+QoreMesh OS is the foundational infrastructure layer beneath eTokenWorld.
+
+It is directed toward enabling trusted coordination, structured digital participation, governed service environments, interoperable ecosystem growth, and future intelligent and machine-connected infrastructure across heterogeneous environments. 2
+
+eTokenWorld is the human-facing gateway built on top of that infrastructure.
+
+---
+
+## The New World Gateway
+
+eTokenWorld is positioned as the **New World Gateway**.
+
+This means it is intended to serve as a public entry point into a broader digital environment where people, services, institutions, developers, operators, intelligent systems, and connected infrastructure can participate through one trusted gateway experience rather than through disconnected silos.
+
+This direction supports:
+
+- individuals and communities
+- creators and builders
+- operators and ecosystem partners
+- institutions and service networks
+- AI-enabled participation layers
+- IoT and connected systems
+- future mobility and machine-service environments
+
+---
+
+## User Gateway Access
+
+The participant-facing access layer is described as **User Gateway Access**.
+
+This represents the participant’s entry point into the eTokenWorld environment for identity-linked access, service participation, trusted records, structured digital rights, and broader ecosystem engagement.
+
+This direction supports a broader gateway role than a conventional wallet-only model.
+
+---
+
+## Platform Direction
 
 The current public-safe direction includes:
 
 - **New World Gateway**
 - **User Gateway Access**
-- **Quantum World of Human Intelligence Objects**
 - **governed service and program environments**
+- **trusted digital participation**
+- **Quantum World of Human Intelligence Objects**
 - **AI engine module**
 - **IoT module**
 - **drone and flying module**
 - **ecosystem and institutional participation**
-- **Developer Force formation**
-- **Guardian Force formation**
+- **developer, operator, and partner growth**
 
 ---
 
-## Who This Is For
+## Quantum World of Human Intelligence Objects
+
+A long-range concept within the eTokenWorld direction is the emergence of a **Quantum World of Human Intelligence Objects**.
+
+In public terms, this expresses a future in which meaningful digital objects can represent authorship, participation, rights, service relevance, continuity, and trusted relationships in structured form.
+
+This concept supports a more human-centered digital direction in which intelligence, stewardship, service participation, and ecosystem coordination can become more coherent, portable, and trusted across platforms and environments.
+
+---
+
+## Who eTokenWorld Is For
 
 ### Developers
-Builders of programs, services, applications, modules, operator tools, and ecosystem-facing experiences.
+Developers building programs, applications, services, operator tools, ecosystem modules, and future intelligent participation systems.
 
 ### Operators
-Participants who want to grow user access, service reach, and local or sector-specific ecosystem participation.
+Organizations and ecosystem participants seeking to grow real-world adoption, user access, service reach, and structured participation.
 
 ### AI Builders
-Teams interested in intelligence-assisted services, guidance systems, participation agents, and future AI-enabled operational modules.
+Teams interested in intelligence-assisted services, contextual guidance, ecosystem navigation, and future AI-enabled participation environments.
 
 ### IoT Developers
-Builders connecting machines, sensors, service points, and infrastructure-linked participation systems.
+Builders connecting devices, infrastructure, service points, and machine-linked participation systems into a broader trusted framework.
 
 ### Institutions
-Organizations exploring trusted digital coordination, structured participation, and connected ecosystem pathways.
+Organizations exploring trusted digital coordination, structured participation, service ecosystems, and future gateway models.
 
-### Strategic Partners and Investors
-Parties interested in long-range infrastructure opportunities across digital participation, intelligent systems, connected infrastructure, and ecosystem growth.
+### Strategic Partners
+Parties interested in ecosystem participation, operator pathways, service integration, and long-range digital infrastructure collaboration.
+
+---
+
+## Why It Matters
+
+Many digital systems remain fragmented across identity, service access, records, participation, coordination, and connected-system interaction.
+
+eTokenWorld is intended to support a more unified public-facing direction where these capabilities can be approached through one gateway layer built on trusted underlying infrastructure.
+
+This matters for:
+
+- developer ecosystems
+- operator ecosystems
+- institution-linked participation
+- intelligent and connected systems
+- future infrastructure coordination
+- long-range digital ecosystem growth
+
+---
+
+## Partnership Direction
+
+eTokenWorld is being developed with a partnership-oriented growth path in mind.
+
+Potential partnership directions may include:
+
+- service and program collaboration
+- ecosystem and operator participation
+- institutional pathways
+- developer and module partnerships
+- AI and IoT integration opportunities
+- connected infrastructure participation
+- public gateway and service expansion models
+
+This repository is intended to support understanding, alignment, and public-safe engagement with that direction.
 
 ---
 
@@ -90,12 +157,14 @@ Parties interested in long-range infrastructure opportunities across digital par
 eTokenWorld is intended to become a platform where builders can contribute to:
 
 - user-facing applications
-- AI-enabled modules
-- connected service systems
+- service modules
 - operator-facing tools
-- ecosystem-specific services
-- public gateway experiences
-- future intelligent and infrastructure-linked participation models
+- ecosystem-specific participation systems
+- AI-enabled guidance and interaction layers
+- IoT and connected infrastructure integrations
+- future mobility and machine-service environments
+
+For builders interested in digital participation systems, governed service models, intelligent environments, connected systems, and future gateway concepts, eTokenWorld offers a compelling long-range direction.
 
 ---
 
@@ -106,12 +175,14 @@ This repository contains **public-safe materials only**.
 It is intended to explain the vision, positioning, ecosystem direction, and high-level architecture of eTokenWorld and QoreMesh OS without disclosing:
 
 - confidential implementation details
+- proprietary execution methods
 - internal scripts
-- proprietary execution logic
-- unpublished technical methods
-- sensitive security mechanisms
+- unpublished technical mechanisms
+- sensitive security procedures
 - invention-specific internal structures
 - protected engineering artifacts
+
+The core architecture and execution infrastructure of QoreMesh OS are being developed and protected separately from the public-facing materials in this repository. 3 4
 
 Please read:
 
@@ -139,7 +210,7 @@ Please read:
 **Project:** eToken.World Project  
 **Base:** Singapore  
 
-eTokenWorld is being developed as part of a broader long-range digital infrastructure direction powered by QoreMesh OS.
+eTokenWorld is being developed as part of a broader long-range infrastructure direction powered by QoreMesh OS.
 
 ---
 
@@ -148,18 +219,17 @@ eTokenWorld is being developed as part of a broader long-range digital infrastru
 eTokenWorld welcomes interest from:
 
 - developers
+- operators
 - AI builders
 - IoT developers
-- operators
-- ecosystem designers
 - institutions
-- strategic partners
-- long-range investors
+- ecosystem partners
+- strategic collaborators
 
-This repository is the public starting point for understanding the vision and participating in the next stage of growth.
+This repository is the public starting point for understanding the vision and exploring possible collaboration.
 
 ---
 
 ## Positioning Line
 
-**eTokenWorld, powered by QoreMesh OS, is the New World Gateway for human intelligence, digital participation, governed services, and trusted coordination across people, ecosystems, institutions, AI systems, and connected infrastructure.**
+**eTokenWorld, powered by QoreMesh OS, is the New World Gateway for trusted digital participation, governed services, intelligent ecosystem growth, and connected real-world coordination.**
