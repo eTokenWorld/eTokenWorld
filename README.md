@@ -34,7 +34,7 @@ At a public level, eTokenWorld is intended to provide a more unified alternative
 
 QoreMesh OS is the foundational infrastructure layer beneath eTokenWorld.
 
-It is directed toward enabling trusted coordination, structured digital participation, governed service environments, interoperable ecosystem growth, and future intelligent and machine-connected infrastructure across heterogeneous environments. 2
+It is directed toward enabling trusted coordination, structured digital participation, governed service environments, interoperable ecosystem growth, and future intelligent and machine-connected infrastructure across heterogeneous environments.
 
 eTokenWorld is the human-facing gateway built on top of that infrastructure.
 
@@ -182,7 +182,7 @@ It is intended to explain the vision, positioning, ecosystem direction, and high
 - invention-specific internal structures
 - protected engineering artifacts
 
-The core architecture and execution infrastructure of QoreMesh OS are being developed and protected separately from the public-facing materials in this repository. 3 4
+The core architecture and execution infrastructure of QoreMesh OS are being developed and protected separately from the public-facing materials in this repository.
 
 Please read:
 
