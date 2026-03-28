@@ -1,0 +1,158 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Developers — eTokenWorld</title>
+  <meta name="description" content="Developer page for eTokenWorld, powered by QoreMesh OS.">
+  <style>
+    :root{
+      --bg:#07111f; --bg2:#0d1b2f; --card:rgba(255,255,255,.08);
+      --card-border:rgba(255,255,255,.14); --text:#eef4ff; --muted:#a9bbd8;
+      --blue:#4ea3ff; --blue2:#7bc3ff; --green:#77e0b5; --gold:#ffd36b;
+      --shadow:0 20px 60px rgba(0,0,0,.35); --radius:24px; --max:1180px;
+    }
+    *{box-sizing:border-box} body{
+      margin:0;color:var(--text);
+      font-family:Inter,ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;
+      background:
+        radial-gradient(circle at 20% 20%, rgba(78,163,255,.18), transparent 28%),
+        radial-gradient(circle at 80% 0%, rgba(123,195,255,.16), transparent 24%),
+        radial-gradient(circle at 50% 100%, rgba(119,224,181,.10), transparent 28%),
+        linear-gradient(180deg, var(--bg), var(--bg2));
+      min-height:100vh;
+    }
+    a{color:inherit;text-decoration:none}
+    .wrap{max-width:var(--max);margin:0 auto;padding:0 20px}
+    .topbar{position:sticky;top:0;z-index:30;backdrop-filter:blur(14px);background:rgba(7,17,31,.65);border-bottom:1px solid rgba(255,255,255,.08)}
+    .nav{display:flex;align-items:center;justify-content:space-between;min-height:74px;gap:16px}
+    .brand{display:flex;align-items:center;gap:12px;font-weight:700}
+    .logo{width:42px;height:42px;border-radius:14px;background:linear-gradient(135deg,var(--blue),var(--green));box-shadow:0 10px 24px rgba(78,163,255,.28)}
+    .brand small{display:block;font-size:12px;color:var(--muted);font-weight:500;margin-top:2px}
+    .navlinks{display:flex;gap:18px;flex-wrap:wrap}
+    .navlinks a{color:var(--muted);font-size:14px}
+    .navlinks a:hover{color:#fff}
+    .btn{display:inline-flex;align-items:center;justify-content:center;padding:14px 20px;border-radius:16px;font-weight:700;border:1px solid transparent}
+    .btn.primary{background:linear-gradient(135deg,var(--blue),var(--blue2));color:#031021;box-shadow:0 16px 34px rgba(78,163,255,.24)}
+    .btn.ghost{background:rgba(255,255,255,.05);border-color:rgba(255,255,255,.12);color:#fff}
+    .hero{padding:72px 0 34px}
+    .eyebrow{display:inline-flex;align-items:center;gap:10px;font-size:13px;font-weight:700;color:var(--gold);background:rgba(255,211,107,.08);border:1px solid rgba(255,211,107,.16);padding:10px 14px;border-radius:999px;margin-bottom:18px}
+    h1{margin:0 0 18px;font-size:clamp(38px,6vw,68px);line-height:1.04;letter-spacing:-1.6px}
+    .grad{background:linear-gradient(135deg,#fff,var(--blue2),var(--green));-webkit-background-clip:text;background-clip:text;color:transparent}
+    .lead{font-size:18px;line-height:1.7;color:var(--muted);max-width:760px;margin:0 0 24px}
+    .hero-actions{display:flex;gap:14px;flex-wrap:wrap}
+    section{padding:28px 0}
+    .section-head{display:flex;justify-content:space-between;gap:16px;align-items:end;margin-bottom:18px}
+    .section-head h2{margin:0;font-size:clamp(28px,4vw,42px);letter-spacing:-1px}
+    .section-head p{margin:0;max-width:720px;color:var(--muted);line-height:1.7}
+    .grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+    .grid-2{display:grid;grid-template-columns:repeat(2,1fr);gap:18px}
+    .card{background:var(--card);border:1px solid var(--card-border);border-radius:24px;padding:22px;box-shadow:var(--shadow)}
+    .icon{width:44px;height:44px;border-radius:14px;display:grid;place-items:center;background:linear-gradient(135deg, rgba(78,163,255,.16), rgba(119,224,181,.14));border:1px solid rgba(255,255,255,.10);font-size:20px}
+    .card h3{margin:10px 0 10px;font-size:20px}
+    .card p{margin:0;color:var(--muted);line-height:1.7}
+    .list{margin:0;padding-left:18px;color:#dbe8fb}
+    .list li{margin:10px 0}
+    .list span{color:var(--muted)}
+    .cta{margin:18px 0 70px;padding:28px;border-radius:28px;background:linear-gradient(135deg, rgba(78,163,255,.16), rgba(123,195,255,.10), rgba(119,224,181,.12));border:1px solid rgba(255,255,255,.12);box-shadow:var(--shadow)}
+    footer{padding:24px 0 40px;color:var(--muted);border-top:1px solid rgba(255,255,255,.08)}
+    .foot{display:flex;justify-content:space-between;gap:18px;flex-wrap:wrap;font-size:14px}
+    @media (max-width:960px){.grid-3,.grid-2{grid-template-columns:1fr}}
+    @media (max-width:640px){.navlinks{display:none}.btn{width:100%}.hero-actions{flex-direction:column}}
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <div class="wrap nav">
+      <div class="brand">
+        <div class="logo"></div>
+        <div>eTokenWorld<small>Powered by QoreMesh OS</small></div>
+      </div>
+      <div class="navlinks">
+        <a href="./index.html">Home</a>
+        <a href="./developers.html">Developers</a>
+        <a href="./contact.html">Contact</a>
+      </div>
+    </div>
+  </div>
+
+  <main>
+    <section class="hero">
+      <div class="wrap">
+        <div class="eyebrow">Developer Entry • Public Preview</div>
+        <h1>Build on a <span class="grad">future-ready gateway</span></h1>
+        <p class="lead">
+          eTokenWorld is positioned as a public-facing gateway for trusted digital participation, governed services, ecosystem coordination, and future intelligent and connected-system interaction.
+        </p>
+        <div class="hero-actions">
+          <a class="btn primary" href="./contact.html">Developer inquiry</a>
+          <a class="btn ghost" href="./index.html">Back to home</a>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="section-head">
+          <div><h2>Who this is for</h2></div>
+          <p>Public-safe materials for developers, AI builders, IoT teams, ecosystem operators, and future integration partners.</p>
+        </div>
+        <div class="grid-3">
+          <div class="card"><div class="icon">💻</div><h3>Application developers</h3><p>Builders exploring user-facing applications, portal surfaces, and ecosystem participation experiences.</p></div>
+          <div class="card"><div class="icon">🤖</div><h3>AI builders</h3><p>Teams interested in guidance layers, discovery flows, contextual assistance, and future intelligent participation systems.</p></div>
+          <div class="card"><div class="icon">📡</div><h3>IoT developers</h3><p>Builders connecting service points, devices, and connected infrastructure into broader participation environments.</p></div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="section-head">
+          <div><h2>Public-safe builder direction</h2></div>
+          <p>This page stays above protected implementation detail and focuses on developer relevance, ecosystem opportunity, and future module alignment.</p>
+        </div>
+        <div class="grid-2">
+          <div class="card">
+            <div class="icon">🧭</div>
+            <h3>Current public themes</h3>
+            <ul class="list">
+              <li><strong>New World Gateway</strong> <span>— public-facing platform identity</span></li>
+              <li><strong>User Gateway Access</strong> <span>— participant-facing access surface</span></li>
+              <li><strong>Governed service environments</strong> <span>— structured participation pathways</span></li>
+              <li><strong>AI / IoT / mobility direction</strong> <span>— future-facing module horizons</span></li>
+            </ul>
+          </div>
+          <div class="card">
+            <div class="icon">🛡️</div>
+            <h3>Boundary</h3>
+            <ul class="list">
+              <li><strong>Public-safe only</strong> <span>— vision, positioning, and ecosystem framing</span></li>
+              <li><strong>No protected internals</strong> <span>— no confidential scripts or sensitive mechanisms</span></li>
+              <li><strong>Partnership-ready</strong> <span>— suitable for early dialogue and scoped exploration</span></li>
+              <li><strong>Expand carefully</strong> <span>— add APIs and developer surfaces in controlled phases</span></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <div class="wrap">
+        <div class="cta">
+          <div class="section-head" style="margin-bottom:0">
+            <div><h2>Next steps for builders</h2></div>
+            <p>Start with public-safe discussion, scope alignment, and high-level integration interest before moving into deeper technical engagement.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="wrap foot">
+      <div><strong>eTokenWorld</strong> — Developers</div>
+      <div>Public-safe page • Singapore</div>
+    </div>
+  </footer>
+</body>
+</html>
